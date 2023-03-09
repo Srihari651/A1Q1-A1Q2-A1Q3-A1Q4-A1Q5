@@ -1,3 +1,5 @@
+//0xF73870FBAD429442A2D93665B4e810345716FcEE//
+
 pragma solidity ^0.8.1;
 contract stringarray{
     string value; //decclaring value as a string
