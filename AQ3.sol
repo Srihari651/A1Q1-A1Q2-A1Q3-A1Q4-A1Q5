@@ -1,3 +1,5 @@
+//0x68a7E2da450b94b780cF889dE0e612242945bf74//
+
 pragma solidity ^0.8.1;
 contract myContract{
     mapping(string=>uint256) public myaddress; // this will map the value of string to its corresponding integer
