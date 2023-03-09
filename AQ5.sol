@@ -1,3 +1,5 @@
+//0x98ac59A0363297C3396796d6cB14Ef662FF99Acf//
+
 pragma solidity ^0.8.1;
 contract machinestate{
     enum State {Ready,Waiting,Active} //declares the 3 states of the contract
